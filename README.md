@@ -1,5 +1,7 @@
 # Karyawan Reporting
 
+![Proyek Karyawan Reporting](https://images.unsplash.com/photo-1517048676732-d65bc937f952?q=80&w=2070&auto=format&fit=crop)
+
 ## Deskripsi Proyek
 
 **Karyawan Reporting** adalah sebuah aplikasi web yang dirancang untuk memfasilitasi proses pelaporan tugas dari karyawan kepada manajer. Proyek ini memberikan platform yang sederhana namun efektif bagi karyawan untuk mengunggah tugas yang telah diselesaikan. Sementara itu, manajer dapat dengan mudah meninjau, memeriksa, dan memvalidasi hasil pekerjaan yang telah dikirimkan.
